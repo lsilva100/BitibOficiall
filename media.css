@@ -1,0 +1,92 @@
+@media screen and (max-width: 760px) {
+   html{
+      min-height: 100vh;
+   }
+   
+   
+   body{
+      min-height: 100vh;
+   } 
+
+   
+   hr{
+      display: flex;
+      width: 310px;
+   }
+   
+   header {
+      flex-direction: column;
+   }
+   
+   ul {
+      text-align: center;
+      padding: 0;
+   }
+   
+   
+   main {
+      flex-direction: column;
+      align-items: center;
+      margin: auto;
+   }
+
+   aside{
+      flex-direction: column;
+   }
+
+   img{
+     display: center;
+   }
+
+   #imagem{
+      display: none;
+   }
+
+   .equipe{
+      text-align: center;
+   }
+
+   section{
+      margin: 30px;
+   }
+
+   .imagem_perfil1{
+      margin: 30px;
+   }
+
+   #sessao1{
+      flex-direction: column;
+   }
+   #sessao2{
+      flex-direction: column;
+   }
+   #sessao3{
+      flex-direction: column;
+   }
+
+   article{
+      flex-direction: column;
+   }
+
+
+   .conjunto-cards{
+      flex-direction: column;
+   }
+
+   footer{
+      flex-direction: column;
+   }
+
+   .mapBox{
+      margin: 30px;
+      width: 500px;
+
+   }
+
+   .linha_footer{
+      display: none;
+   }
+
+
+}
+
